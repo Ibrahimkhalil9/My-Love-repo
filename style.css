@@ -1,0 +1,62 @@
+ h1{
+    color:rgb(148, 82, 70);
+    text-align: center;
+    font-size: 70px;
+    margin-top:0px;
+    
+    
+}
+img{
+    width: 100%;
+    height: 450px;
+    border-collapse: collapse;
+    margin-top: 2px;
+    
+}
+.one{
+   
+    display: flex;
+
+
+}
+.am{
+    text-align: center;
+    margin:20px;
+    color:rgb(194, 43, 43);
+}
+.jam{
+    text-align: justify;
+    margin: 35px;
+    
+}
+#tumi{
+    color: rgb(184, 29, 29);
+    margin-top: 20px;
+}
+.box1{
+    box-shadow: 15px -5px 10px -5px rgb(146, 146, 146);
+    border:10px solid none;
+    width: 40%;
+    height: 250px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.box2{
+    box-shadow: 15px -5px 10px -3px rgb(146, 146, 146);
+    border:10px solid none;
+    width: 40%;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 30px;
+    
+    
+}
+.kathal{
+    color: rgb(57, 175, 140);
+    text-align: center;
+    margin: 20px;
+}
+.lichi{
+    text-align: justify;
+   margin: 35px;
+}

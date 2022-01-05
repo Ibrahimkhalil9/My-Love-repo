@@ -1,3 +1,4 @@
+ 
  h1{
     color:rgb(148, 82, 70);
     text-align: center;
@@ -15,8 +16,8 @@ img{
 }
 .one{
    
-    display: flex;
-
+    display:flex;
+    
 
 }
 .am{
@@ -32,20 +33,38 @@ img{
 #tumi{
     color: rgb(184, 29, 29);
     margin-top: 20px;
+    background-color: royalblue;
 }
 .box1{
-    box-shadow: 15px -5px 10px -5px rgb(146, 146, 146);
-    border:10px solid none;
+    box-shadow: 10px 7px 10px 5px rgb(145, 137, 136);
+    border-left: 10px solid;
+    border-color:lightseagreen;
+    border-image-slice: 1;
     width: 40%;
-    height: 250px;
-    margin-left: 70px;
+    height: 350px;
+    margin-left:70px;
     margin-top: 30px;
+    
+}
+.so{
+    text-decoration: none;
+    font-weight: 800;
+    background: tomato;
+    padding: 20px;
+    border-radius: 5px;
+    color:white;
+    margin-bottom:5px;
+    margin-left: 50px;
+    
+    
 }
 .box2{
-    box-shadow: 15px -5px 10px -3px rgb(146, 146, 146);
-    border:10px solid none;
+    box-shadow: 10px 7px 10px 5px rgb(145, 137, 136);
+    border-left: 10px solid;
+    border-color: rgb(7, 120, 248);
+    border-image-slice:1;
     width: 40%;
-    height: 250px;
+    height: 350px;
     margin-left: 100px;
     margin-top: 30px;
     
@@ -59,4 +78,66 @@ img{
 .lichi{
     text-align: justify;
    margin: 35px;
+}
+.last{
+    display: flex;
+    
+}
+.box3{
+ box-shadow: 10px 7px 10px 5px rgb(145, 137, 136);
+ width: 50%;
+ margin-left: 70px;
+ margin-top: 30px;
+ height: 390px;
+ border-left: 10px solid;
+border-color:rgb(123, 158, 123);
+border-image-slice:1;
+ 
+
+}
+#so{
+    text-decoration: none;
+    font-weight: 800;
+    background: rgb(12, 128, 236);
+    padding: 20px;
+    border-radius: 5px;
+    color:white;
+    margin-bottom:10px;
+    margin-left: 350px;
+    
+    
+}
+.box3 h2{
+    color:orchid;
+    margin: 30px;
+    text-align: center;
+}
+.box3 p{
+    margin: 20px;
+    text-align: justify;
+}
+.box4{
+    width: 50%;
+    margin: 75px;
+    
+}
+#ass{
+    color:tomato;
+
+}
+#happy{
+    font-size: 50px;
+}
+.no{
+    width: 350px;
+    margin-left: 850px;
+    font-weight:bold;
+}
+.no h2{
+    color: blue;
+    font-weight: 800px;
+    font-size: 50px;
+}
+#ima{
+    width: 50%;
 }

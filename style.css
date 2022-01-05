@@ -129,9 +129,10 @@ border-image-slice:1;
     font-size: 50px;
 }
 .no{
-    width: 350px;
+    width:350px;
     margin-left: 850px;
     font-weight:bold;
+
 }
 .no h2{
     color: blue;
@@ -139,5 +140,9 @@ border-image-slice:1;
     font-size: 50px;
 }
 #ima{
-    width: 50%;
+    width: 50%
+    
+}
+.sus{
+    display: flex;
 }
